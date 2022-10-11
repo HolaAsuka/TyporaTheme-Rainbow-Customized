@@ -1,4 +1,4 @@
-# TyporaTheme-Rainbow-Customized 自定义的Rainbow主题
+# 自定义Rainbow主题 Customized Rainbow theme
 > 仅供个人使用 版权归原作者拥有
 
 - 修改正文字体为霞鹜文楷
